@@ -1,2 +1,14 @@
 # cn-arena-resource
-HTML page archive and documentation
+
+静态文件发布目录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
